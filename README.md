@@ -130,7 +130,7 @@ Exploring document storage and retrieval using application data plus unstructure
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  <img src="https://raw.githubusercontent.com/naveen-53/naveen-53/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 </p>
 
 ---
@@ -138,10 +138,10 @@ Exploring document storage and retrieval using application data plus unstructure
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/naveen5302">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:naveennk5302@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
